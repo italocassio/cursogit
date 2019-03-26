@@ -1,0 +1,3 @@
+folha
+pedra
+areia
