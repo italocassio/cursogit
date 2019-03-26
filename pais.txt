@@ -3,3 +3,4 @@ pedra
 areia
 agua
 vento
+fogo
