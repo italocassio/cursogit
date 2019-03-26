@@ -4,3 +4,4 @@ areia
 agua
 vento
 fogo
+trovão
