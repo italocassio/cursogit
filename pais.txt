@@ -2,3 +2,4 @@ folha
 pedra
 areia
 agua
+vento
