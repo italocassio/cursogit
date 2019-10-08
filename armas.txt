@@ -1,4 +1,3 @@
 kunai
 selos
 shuriken
-bomba
